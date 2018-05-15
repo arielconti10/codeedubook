@@ -1,0 +1,15 @@
+{
+    "name": "codeedu/codeedubook",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ariel Conti",
+            "email": "arielconti10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeEduBook\\": ""
+        }
+    }
+}
